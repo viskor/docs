@@ -50,6 +50,12 @@ Unlike GPIO03, the GPIO02 PCB contact is not prepared for a pin. You will need t
 You can remove the thick wires from the PCB to use the screw connection on the output side for low voltage. Then add a screw terminal next to the relay for the LINE OUT. This keeps all high voltage on one side of the board
 ![](https://user-images.githubusercontent.com/47423730/52523999-1c1fad80-2c98-11e9-9b86-f50d82ff18cc.jpg)
 
+Note : Since August 2019, the new version is 1.3 and PCB is change 
+
+![2021-05-19 13 40 39](https://user-images.githubusercontent.com/6126048/118807345-74e34500-b8a8-11eb-99f4-2d4df4956fd5.jpg)
+![2021-05-19 13 40 50](https://user-images.githubusercontent.com/6126048/118807359-790f6280-b8a8-11eb-9f71-d57c4983b859.jpg)
+
+
 ## Sonoff Basic R1
 This is the board layout for the first board version of the Sonoff Basic.
 
